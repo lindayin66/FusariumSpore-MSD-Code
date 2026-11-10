@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated dataset and paper."
+title: "FusariumSpore-MSD-Code"
+version: v1.0
+date-released: "2026-11-09"
+license: MIT
+authors:
+  - family-names: "Yin"
+    given-names: "Xiaoya"
+    affiliation: "Henan Institute of Science and Technology"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23827073
+    description: "FusariumSpore-MSD v1.0 dataset"
+repository-code: "https://github.com/lindayin66/FusariumSpore-MSD-Code"

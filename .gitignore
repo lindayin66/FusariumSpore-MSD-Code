@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.onnx
+runs/
+results/
+data/
+weights/
+*.jpg
+*.jpeg
+*.png
+*.zip
+labels.cache
+.DS_Store
