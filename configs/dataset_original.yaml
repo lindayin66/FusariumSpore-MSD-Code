@@ -1,0 +1,12 @@
+# FusariumSpore-MSD v1.0 — YOLO/RT-DETR training config.
+# Edit `path` to match your local split_7_2_1 directory.
+
+path: ../../FusariumSpore-MSD_v1.0/split_7_2_1
+train: train/images
+val:   val/images
+test:  test/images
+
+names:
+  0: FG
+  1: FPG
+  2: FI
